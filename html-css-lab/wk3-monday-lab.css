@@ -1,0 +1,16 @@
+img {
+    width: 30vw;
+}
+
+p.indent{
+    text-indent:5%;
+}
+
+p {
+    background-color: black;
+    color: aliceblue;
+}
+
+h1, h2 {
+    text-decoration: underline;
+}

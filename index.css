@@ -1,0 +1,14 @@
+p {
+    background-color: blue;
+    color: aliceblue;
+}
+
+h1, h2, h6 {
+    background-color: blueviolet;
+    color: aliceblue;
+}
+
+img {
+    width: 25vw;
+}
+
